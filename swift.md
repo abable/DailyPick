@@ -25,3 +25,22 @@ class SwitchViewController: UIViewController {
    }        
 }
 ```
+
+```C
+void main() {
+	printf("hello world!");
+}
+```
+
+```c
+void main() {
+	printf("hello world!");
+}
+```
+
+```
+void main() {
+	printf("hello world!");
+}
+```
+
